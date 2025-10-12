@@ -747,8 +747,8 @@ a, button {
   color: #FFFFFF;
 }
 .basic__button:hover {
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
 }
 .basic__buttonAnim {
   position: relative;
@@ -905,8 +905,8 @@ a, button {
   font-weight: 500;
   line-height: 20px;
   text-align: center;
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -2445,8 +2445,8 @@ a, button {
   }
 }
 .contactFormSection__container button.basic__button:hover {
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
 }
 .contactFormSection__container .form-group > label {
   color: #1F1F23;
@@ -2631,8 +2631,8 @@ a, button {
     font-size: 15px;
     line-height: 16px;
     font-weight: 500; /* Change font-weight here */
-    background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-    background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+    background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
@@ -2658,8 +2658,8 @@ a, button {
     bottom: -1px; /* Adjust to match border width */
     border-radius: 100px; /* Match parent border radius */
     padding: 1px; /* Adjust to match border width */
-    background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-    background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+    background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+    background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
     -webkit-mask: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff)) content-box, -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff));
     -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
     -webkit-mask-composite: xor;
@@ -2693,8 +2693,8 @@ a, button {
   font-size: 15px;
   line-height: 16px;
   font-weight: 500; /* Change font-weight here */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -2718,8 +2718,8 @@ a, button {
   bottom: -1px; /* Adjust to match border width */
   border-radius: 100px; /* Match parent border radius */
   padding: 1px; /* Adjust to match border width */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-mask: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff)) content-box, -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff));
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -3432,8 +3432,8 @@ a, button {
   font-size: 15px;
   line-height: 16px;
   font-weight: 500; /* Change font-weight here */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -3452,8 +3452,8 @@ a, button {
   bottom: -1px; /* Adjust to match border width */
   border-radius: 100px; /* Match parent border radius */
   padding: 1px; /* Adjust to match border width */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-mask: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff)) content-box, -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff));
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -6538,8 +6538,8 @@ a, button {
   font-size: 15px;
   line-height: 16px;
   font-weight: 500; /* Change font-weight here */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -6563,8 +6563,8 @@ a, button {
   bottom: -1px; /* Adjust to match border width */
   border-radius: 100px; /* Match parent border radius */
   padding: 1px; /* Adjust to match border width */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-mask: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff)) content-box, -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff));
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
@@ -6597,8 +6597,8 @@ a, button {
   font-size: 15px;
   line-height: 16px;
   font-weight: 500; /* Change font-weight here */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
@@ -6622,8 +6622,8 @@ a, button {
   bottom: -1px; /* Adjust to match border width */
   border-radius: 100px; /* Match parent border radius */
   padding: 1px; /* Adjust to match border width */
-  background: -webkit-gradient(linear, left top, right top, from(#52C1B6), to(#4BA2B8));
-  background: linear-gradient(90deg, #52C1B6 0%, #4BA2B8 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#b19772), to(#9e7500));
+  background: linear-gradient(90deg, #b19772 0%, #9e7500 100%);
   -webkit-mask: -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff)) content-box, -webkit-gradient(linear, left top, left bottom, color-stop(0, #fff));
   -webkit-mask: linear-gradient(#fff 0 0) content-box, linear-gradient(#fff 0 0);
   -webkit-mask-composite: xor;
